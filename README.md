@@ -1,2 +1,1 @@
-###Hello
-I'm an artificial intelligence student at Gachon university!
+Hello,I'm an artificial intelligence student at Gachon university!
